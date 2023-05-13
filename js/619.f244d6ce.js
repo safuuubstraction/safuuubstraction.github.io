@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksafugate_web"]=self["webpackChunksafugate_web"]||[]).push([[619],{9619:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var u=n(8245),s=function(){var e=this,t=e._self._c;return t(u.Z,{staticClass:"home fill-height"},[e._v(" DAPP ")])},a=[],r=(n(4147),n(9419),n(6486),{name:"Dapp",data(){return{provider:null}},computed:{invests(){return[]}},methods:{async func(e){}},async mounted(){}}),l=r,c=n(1001),f=(0,c.Z)(l,s,a,!1,null,"0f3ee906",null),i=f.exports}}]);
+//# sourceMappingURL=619.f244d6ce.js.map
